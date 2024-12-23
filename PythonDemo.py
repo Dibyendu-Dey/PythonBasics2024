@@ -18,3 +18,12 @@ def check_even_odd(num):
 
 
 check_even_odd(num=1)
+# DAY3:
+# String Concatenation: String concatenation allow the user to combine two or more strings in Python.
+print("String concatenation using plus operator")
+print("Dibyendu"+" "+"Dey")
+print("\n")
+print("String concatenation using comma (,)")
+first_name = "Dibyendu"
+last_name = "Dey"
+print(first_name, last_name)
